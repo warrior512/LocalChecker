@@ -1,3 +1,3 @@
 # LocalChecker
 
-© Dzirt Dourent
+© Dzirt
